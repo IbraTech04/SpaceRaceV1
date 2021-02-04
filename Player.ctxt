@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment10.params=toRemove
+comment10.target=void\ upgradeBought(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ useItem()
+comment4.params=toRemove
+comment4.target=void\ damage(int)
+comment5.params=
+comment5.target=void\ fall()
+comment6.params=
+comment6.target=boolean\ onGround()
+comment7.params=
+comment7.target=void\ checkFalling()
+comment8.params=healthToAdd
+comment8.target=void\ addHealth(int)
+comment9.params=
+comment9.target=int\ getCoins()
+numComments=11

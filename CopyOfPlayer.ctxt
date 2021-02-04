@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CopyOfPlayer
+comment1.params=
+comment1.target=CopyOfPlayer()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ changeCostumeLeft()
+comment4.params=
+comment4.target=void\ changeCostumeRight()
+numComments=5

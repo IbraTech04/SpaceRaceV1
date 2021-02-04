@@ -1,0 +1,7 @@
+SpaceRaceV1.0 Save File
+Costume:1
+Coins:2399
+morePower:true
+moreSpeed:true
+level2unlock:true
+level3unlock:true
